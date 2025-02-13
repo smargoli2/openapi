@@ -37147,7 +37147,6 @@
                     ]
                   },
                   "type": "array",
-                  "uniqueItems": true,
                   "title": "Features"
                 },
                 "customer_reference": {
@@ -37176,7 +37175,6 @@
                     "format": "uuid"
                   },
                   "type": "array",
-                  "uniqueItems": true,
                   "title": "Orders"
                 }
               }
@@ -44060,7 +44058,6 @@
               ]
             },
             "type": "array",
-            "uniqueItems": true,
             "title": "Features"
           },
           "customer_reference": {
@@ -51892,7 +51889,6 @@
           },
           "mnoIds": {
             "title": "Mnoids",
-            "uniqueItems": true,
             "type": "array",
             "items": {
               "type": "integer"
@@ -51961,7 +51957,6 @@
           },
           "subUsecases": {
             "title": "Subusecases",
-            "uniqueItems": true,
             "type": "array",
             "items": {
               "type": "string"
@@ -51985,7 +51980,6 @@
           },
           "tag": {
             "title": "Tag",
-            "uniqueItems": true,
             "type": "array",
             "items": {
               "type": "string"
@@ -80521,7 +80515,6 @@
           },
           "subUsecases": {
             "title": "Subusecases",
-            "uniqueItems": true,
             "type": "array",
             "items": {
               "type": "string"
@@ -80826,7 +80819,6 @@
           },
           "subUsecases": {
             "title": "Subusecases",
-            "uniqueItems": true,
             "type": "array",
             "items": {
               "type": "string"
@@ -81095,7 +81087,6 @@
           },
           "subUsecases": {
             "title": "Subusecases",
-            "uniqueItems": true,
             "type": "array",
             "items": {
               "type": "string"
